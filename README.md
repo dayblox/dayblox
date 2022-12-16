@@ -1,5 +1,1 @@
-### Hi there 👋
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dayblox&left_color=green&right_color=red)
-
-[![Visits Badge](https://badges.pufler.dev/visits/dayblox/dayblox)](https://badges.pufler.dev)
+<img alt="GitHub repo file count (file type)" src="https://img.shields.io/github/directory-file-count/dayblox/mood?style=for-the-badge&type=file&link=google.fr">
