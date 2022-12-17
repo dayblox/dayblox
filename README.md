@@ -15,11 +15,11 @@
 <a href=""><img src="https://img.shields.io/badge/babel-grey?logo=babel&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/bem-grey?logo=bem&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/bitbucket-grey?logo=bitbucket&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/boostrap-grey?logo=boostrap&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/bootstrap-grey?logo=bootstrap&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/bun-grey?logo=bun&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/c-grey?logo=c&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/c sharp-grey?logo=c sharp&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/c++-grey?logo=c++&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/c++-grey?logo=cplusplus&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/chakra ui-grey?logo=chakra ui&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/chart.js-grey?logo=chart.js&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/circleci-grey?logo=circleci&style=for-the-badge"/></a>
@@ -49,7 +49,7 @@
 <a href=""><img src="https://img.shields.io/badge/elastic-grey?logo=elastic&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/elasticsearch-grey?logo=elasticsearch&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/electron-grey?logo=electron&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/electron-builder-grey?logo=electron-builder&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/electron builder-grey?logo=electron-builder&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/esbuild-grey?logo=esbuild&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/eslint-grey?logo=eslint&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/express-grey?logo=express&style=for-the-badge"/></a>
@@ -118,7 +118,7 @@
 <a href=""><img src="https://img.shields.io/badge/jquery-grey?logo=jquery&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/jsfiddle-grey?logo=jsfiddle&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/json-grey?logo=json&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/json web token-grey?logo=json web token&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/JWT-grey?logo=jsonwebtokens&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/jss-grey?logo=jss&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/jupyter-grey?logo=jupyter&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/junit5-grey?logo=junit5&style=for-the-badge"/></a>
@@ -155,7 +155,7 @@
 <a href=""><img src="https://img.shields.io/badge/microsoft onenote-grey?logo=microsoft onenote&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/microsoft outlook-grey?logo=microsoft outlook&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/microsoft powerpoint-grey?logo=microsoft powerpoint&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/microsoft sqlserver-grey?logo=microsoft sqlserver&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/microsoft sqlserver-grey?logo=microsoftsqlserver&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/microsoft teams-grey?logo=microsoft teams&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/microsoft word-grey?logo=microsoft word&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/mocha-grey?logo=mocha&style=for-the-badge"/></a>
@@ -174,7 +174,7 @@
 <a href=""><img src="https://img.shields.io/badge/nodemon-grey?logo=nodemon&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/npm-grey?logo=npm&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/notion-grey?logo=notion&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/notepad++-grey?logo=notepad++&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/notepad++-grey?logo=notepadplusplus&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/numpy-grey?logo=numpy&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/ocaml-grey?logo=ocaml&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/obs studio-grey?logo=obs studio&style=for-the-badge"/></a>
@@ -192,7 +192,7 @@
 <a href=""><img src="https://img.shields.io/badge/passport-grey?logo=passport&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/pfsense-grey?logo=pfsense&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/php-grey?logo=php&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/pi-hole-grey?logo=pi-hole&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/pi--hole-grey?logo=pihole&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/planetscale-grey?logo=planetscale&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/plex-grey?logo=plex&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/pm2-grey?logo=pm2&style=for-the-badge"/></a>
@@ -200,7 +200,7 @@
 <a href=""><img src="https://img.shields.io/badge/postcss-grey?logo=postcss&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/postgresql-grey?logo=postgresql&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/postman-grey?logo=postman&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/pre-commit-grey?logo=pre-commit&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/pre--commit-grey?logo=precommit&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/powershell-grey?logo=powershell&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/prettier-grey?logo=prettier&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/prisma-grey?logo=prisma&style=for-the-badge"/></a>
@@ -219,7 +219,7 @@
 <a href=""><img src="https://img.shields.io/badge/readme-grey?logo=readme&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/redis-grey?logo=redis&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/redux-grey?logo=redux&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/redux-saga-grey?logo=redux-saga&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/redux--saga-grey?logo=reduxsaga&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/render-grey?logo=render&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/remix-grey?logo=remix&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/rome-grey?logo=rome&style=for-the-badge"/></a>
@@ -254,14 +254,14 @@
 <a href=""><img src="https://img.shields.io/badge/three.js-grey?logo=three.js&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/thunderbird-grey?logo=thunderbird&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/tmux-grey?logo=tmux&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/tp-link-grey?logo=tp-link&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/tp--link-grey?logo=tplink&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/tor browser-grey?logo=tor browser&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/tor project-grey?logo=tor project&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/trello-grey?logo=trello&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/trpc-grey?logo=trpc&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/trustpilot-grey?logo=trustpilot&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/tryhackme-grey?logo=tryhackme&style=for-the-badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/ts-node-grey?logo=ts-node&style=for-the-badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/ts--node-grey?logo=tsnode&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/twitter-grey?logo=twitter&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/twitch-grey?logo=twitch&style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/turborepo-grey?logo=turborepo&style=for-the-badge"/></a>
